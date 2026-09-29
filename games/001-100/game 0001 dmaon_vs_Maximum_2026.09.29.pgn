@@ -1,0 +1,18 @@
+[Event "Play vs Bot"]
+[Site "Chess.com"]
+[Date "2026.09.29"]
+[Round "?"]
+[White "dmaon"]
+[Black "Maximum"]
+[Result "0-1"]
+[BlackElo "3200"]
+[WhiteElo "1200"]
+[TimeControl "-"]
+[Termination "by checkmate"]
+[ECO "C20"]
+[EndDate "2026.09.29"]
+[Link "https://www.chess.com/game/computer/2230294282"]
+
+1. e4 e5 2. f3 Nc6 3. c3 d5 4. Bb5 dxe4 5. fxe4 Qh4+ 6. g3 Qxe4+ 7. Qe2 Qxh1 8.
+Qf2 Nf6 9. Bxc6+ bxc6 10. c4 Ng4 11. Qe3 Nxe3 12. dxe3 Qxg1+ 13. Ke2 Bg4+ 14.
+Kd2 O-O-O+ 15. Kc2 Qd1+ 16. Kc3 Rd3# 0-1
